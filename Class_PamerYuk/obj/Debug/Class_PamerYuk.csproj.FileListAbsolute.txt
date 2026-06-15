@@ -209,3 +209,43 @@ C:\Users\User\Downloads\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYu
 C:\Users\User\Downloads\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.csproj.CopyComplete
 C:\Users\User\Downloads\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.dll
 C:\Users\User\Downloads\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.pdb
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Class_PamerYuk.dll.config
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Class_PamerYuk.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Class_PamerYuk.pdb
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\ZstdSharp.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.csproj.CopyComplete
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.dll
+C:\Users\User\Downloads\KECEBONG (4)\PAMERYUK\PAMERYUK\Class_PamerYuk\obj\Debug\Class_PamerYuk.pdb
