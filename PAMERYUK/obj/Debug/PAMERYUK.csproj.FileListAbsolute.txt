@@ -1,0 +1,319 @@
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\User\source\repos\database\UAS\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.pdb
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormChat.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarBlock.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarTeman.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormEditProfile.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormKisahHidup.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormNotifikasi.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherPost.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherUserPage.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfile.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfileBlock.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormSearch.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormTag.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUpload.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CopyComplete
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\User\Downloads\PAMERYUK_UI\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\ZstdSharp.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.pdb
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll.config
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormChat.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarBlock.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarTeman.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormEditProfile.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormKisahHidup.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormNotifikasi.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherPost.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherUserPage.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfile.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfileBlock.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormSearch.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormTag.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUpload.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.Up2Date
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\Acer\Desktop\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\ZstdSharp.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.pdb
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll.config
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.pdb
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormChat.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarBlock.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarTeman.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormEditProfile.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormKisahHidup.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormNotifikasi.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherPost.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherUserPage.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfile.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfileBlock.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormSearch.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormTag.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUpload.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CopyComplete
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\jenni\Downloads\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\ZstdSharp.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.pdb
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll.config
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormChat.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarBlock.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarTeman.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormEditProfile.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormKisahHidup.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormNotifikasi.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherPost.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherUserPage.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfile.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfileBlock.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormSearch.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormTag.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUpload.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CopyComplete
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\User\Downloads\PAMERYUK_jenni done\PAMERYUK (3)_sem\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\ZstdSharp.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.pdb
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll.config
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.pdb
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormChat.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarBlock.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarTeman.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormEditProfile.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormKisahHidup.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormNotifikasi.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherPost.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherUserPage.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfile.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfileBlock.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormSearch.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormTag.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUpload.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CopyComplete
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\Devina\Downloads\PAMERYUK Chel+Ropi done\PAMERYUK (3)\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe.config
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.exe
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\PAMERYUK.pdb
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\ZstdSharp.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.pdb
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\Class_PamerYuk.dll.config
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormChat.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarBlock.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormDaftarTeman.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormEditProfile.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormKisahHidup.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormLogin.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormNotifikasi.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherPost.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormOtherUserPage.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfile.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormProfileBlock.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormRegister.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormSearch.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormTag.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUpload.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.FormUtama.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.Properties.Resources.resources
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.csproj.CopyComplete
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.exe
+C:\Users\User\Downloads\PAMERYUK\PAMERYUK\PAMERYUK\obj\Debug\PAMERYUK.pdb
