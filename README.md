@@ -58,6 +58,12 @@ PamerYuk/
 ```
 ---
 
+### 🧬 Entity Relationship Diagram (ERD)
+
+![PamerYuk ERD](PamerYuk.png)
+
+---
+
 ## ⚙️ Cara Menjalankan
 
 ### 📋 Prasyarat
