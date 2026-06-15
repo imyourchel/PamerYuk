@@ -52,6 +52,7 @@ PamerYuk/
 │   └── FormOtherUserPage.cs # 👥 Halaman profil orang lain
 ├── 📁 Class_PamerYuk/        # Class library pendukung
 ├── 📁 packages/              # NuGet packages
+├── 🖼️ PamerYuk.png           # Screenshot & ERD (dokumentasi)
 ├── 🗄️ pjuas.sql              # Script database MySQL
 └── 📄 PAMERYUK.sln           # Solution file Visual Studio
 ```
@@ -100,4 +101,4 @@ Proyek ini dibuat untuk keperluan akademik 🎓 (Ujian Akhir Semester). Bebas di
 
 ## 👤 Author
 
-**imyourchel** — [GitHub](https://github.com/imyourchel) 🐱
+**imyourchel** — Universitas Surabaya (UBAYA)
