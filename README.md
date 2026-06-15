@@ -2,8 +2,6 @@
 
 Aplikasi media sosial berbasis desktop (Windows Forms / C#) yang memungkinkan pengguna berbagi foto 🖼️, berinteraksi dengan teman 👥, dan mengelola profil pribadi mereka dengan mudah.
 
-![PamerYuk Screenshot](PamerYuk.png)
-
 ---
 
 ## 🧰 Teknologi
@@ -54,8 +52,6 @@ PamerYuk/
 ├── 📁 packages/ # NuGet packages
 ├── 🗄️ pjuas.sql # Script database MySQL
 └── 📄 PAMERYUK.sln # Solution file Visual Studio
-
-text
 
 ---
 
