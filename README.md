@@ -31,28 +31,30 @@ Aplikasi media sosial berbasis desktop (Windows Forms / C#) yang memungkinkan pe
 ---
 
 ## 🗂️ Struktur Proyek
-PamerYuk/
-├── 📁 PAMERYUK/ # Source code utama (C# WinForms)
-│ ├── FormLogin.cs # 🔐 Form login
-│ ├── FormRegister.cs # 📝 Form registrasi
-│ ├── FormUtama.cs # 🏠 Beranda / feed utama
-│ ├── FormProfile.cs # 👤 Halaman profil sendiri
-│ ├── FormEditProfile.cs # ✏️ Edit profil
-│ ├── FormUpload.cs # 📤 Upload foto
-│ ├── FormChat.cs # 💬 Fitur chat
-│ ├── FormSearch.cs # 🔎 Pencarian pengguna
-│ ├── FormNotifikasi.cs # 🔔 Notifikasi
-│ ├── FormTag.cs # 🏷️ Fitur tag
-│ ├── FormKisahHidup.cs # 📖 Kisah hidup pengguna
-│ ├── FormDaftarTeman.cs # 🤝 Daftar teman
-│ ├── FormDaftarBlock.cs # 🚫 Daftar blokir
-│ ├── FormOtherPost.cs # 🖼️ Lihat postingan orang lain
-│ └── FormOtherUserPage.cs # 👥 Halaman profil orang lain
-├── 📁 Class_PamerYuk/ # Class library pendukung
-├── 📁 packages/ # NuGet packages
-├── 🗄️ pjuas.sql # Script database MySQL
-└── 📄 PAMERYUK.sln # Solution file Visual Studio
 
+```text
+PamerYuk/
+├── 📁 PAMERYUK/              # Source code utama (C# WinForms)
+│   ├── FormLogin.cs         # 🔐 Form login
+│   ├── FormRegister.cs      # 📝 Form registrasi
+│   ├── FormUtama.cs         # 🏠 Beranda / feed utama
+│   ├── FormProfile.cs       # 👤 Halaman profil sendiri
+│   ├── FormEditProfile.cs   # ✏️ Edit profil
+│   ├── FormUpload.cs        # 📤 Upload foto
+│   ├── FormChat.cs          # 💬 Fitur chat
+│   ├── FormSearch.cs        # 🔎 Pencarian pengguna
+│   ├── FormNotifikasi.cs    # 🔔 Notifikasi
+│   ├── FormTag.cs           # 🏷️ Fitur tag
+│   ├── FormKisahHidup.cs    # 📖 Kisah hidup pengguna
+│   ├── FormDaftarTeman.cs   # 🤝 Daftar teman
+│   ├── FormDaftarBlock.cs   # 🚫 Daftar blokir
+│   ├── FormOtherPost.cs     # 🖼️ Lihat postingan orang lain
+│   └── FormOtherUserPage.cs # 👥 Halaman profil orang lain
+├── 📁 Class_PamerYuk/        # Class library pendukung
+├── 📁 packages/              # NuGet packages
+├── 🗄️ pjuas.sql              # Script database MySQL
+└── 📄 PAMERYUK.sln           # Solution file Visual Studio
+```
 ---
 
 ## ⚙️ Cara Menjalankan
